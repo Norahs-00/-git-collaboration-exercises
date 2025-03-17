@@ -1,1 +1,1 @@
-# -git-collaboration-exercises
+# git-collaboration-exercises
